@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SukratUbha
 - 👀 I’m interested in programming, producing, and fitness
 - 🌱 I’m currently learning Next.js, redux, and sample production
-- 💞️ I’m looking to collaborate on anything that spikes curious
+- 💞️ I’m looking to collaborate on anything that spikes curiousity
 - 📫 How to reach me - email: sukratubha@gmail.com
 
 <!---
